@@ -28,7 +28,11 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 * Homework (20%). Final exam (40%). Critical survey and presentation (40%). 
 
-#### Final exam
+#### Final Exam
+
+* Date: November 28 (Tuesday).
+* Time: 10:30 - 12:00.
+* Place: 2445 in E3-1.
 
 #### Teaching Staffs
 
@@ -37,10 +41,10 @@ Tuesday, office: 3402 in E3-1.)
 * TA: Gyeongwon Jung
 * TA: Sangho Lim 
 
-#### Place and Time
+#### Time and Place
 
-* Place: 2445 in E3-1.
 * Time: 10:30 - 12:00 on Tuesday and Thursday.
+* Place: 2445 in E3-1.
 
 ## 3. Homework
 
