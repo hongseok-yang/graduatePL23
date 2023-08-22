@@ -75,7 +75,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/16(Thu) - An Eager Functional Language (Ch11)
 * 11/21(Tue) - Continuation in a Functional Language (Ch12)
 * 11/23(Thu) - Continuation in a Functional Language (Ch12)
-* 11/28(Tue) - Final Exam.
+* 11/28(Tue) - __FINAL EXAM.__
 * 11/30(Thu) - Project Presentations.
 * 12/05(Tue) - Project Presentations.
 * 12/07(Thu) - Project Presentations.
