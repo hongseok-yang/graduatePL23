@@ -48,38 +48,38 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 ## 4. Tentative Plan
 
-* 08/29(Tue)
-* 08/31(Thu)
-* 09/05(Tue)
-* 09/07(Thu)
-* 09/12(Tue)
-* 09/14(Thu)
-* 09/19(Tue)
-* 09/21(Thu)
-* 09/26(Tue)
-* 09/28(Thu)
-* 09/26(Tue)
-* 09/28(Thu) __** NO LECTURE. Chuseok. **__
-* 10/03(Tue) __** NO LECTURE. National Foundation Day. **__
-* 10/05(Thu)
-* 10/10(Tue)
-* 10/12(Thu)
-* 10/17(Tue), 10/19(Thu) __** NO LECTURES. Week for Mid-term Exams. **__
-* 10/24(Tue)
-* 10/26(Thu)
-* 10/31(Tue)
-* 11/02(Thu)
-* 11/07(Tue)
-* 11/09(Thu)
-* 11/14(Tue)
-* 11/16(Thu)
-* 11/21(Tue)
-* 11/23(Thu)
-* 11/28(Tue)
-* 11/30(Thu)
-* 12/05(Tue)
-* 12/07(Thu)
-* 12/12(Tue), 12/14(Thu) __** NO LECTURES. Week for Final Exams. **__
+* 08/29(Tue) - Introduction.
+* 08/31(Thu) - Predicate Logic (Ch1).
+* 09/05(Tue) - Predicate Logic (Ch1).
+* 09/07(Thu) - The Simple Imperative Language (Ch2).
+* 09/12(Tue) - The Simple Imperative Language (Ch2).
+* 09/14(Thu) - The Simple Imperative Language (Ch2).
+* 09/19(Tue) - Program Specification and Their Proofs (Ch3).
+* 09/21(Thu) - Program Specification and Their Proofs (Ch3).
+* 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 09/28(Thu) - Failure, Input-Output and Continuation (Ch5).
+* 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 09/28(Thu) - __** NO LECTURE. Chuseok. **__
+* 10/03(Tue) - __** NO LECTURE. National Foundation Day. **__
+* 10/05(Thu) - Transition Semantics (Ch6).
+* 10/10(Tue) - An Introduction to Category Theory (Tennent Ch8).
+* 10/12(Thu) - An Introduction to Category Theory (Tennent Ch8).
+* 10/17(Tue), 10/19(Thu) - __** NO LECTURES. Week for Mid-term Exams. **__
+* 10/24(Tue) - Recursively-Defined Domains (Tennent Ch10).
+* 10/26(Thu) - Recursively-Defined Domains (Tennent Ch10).
+* 10/31(Tue) - Recursively-Defined Domains (Tennent Ch10).
+* 11/02(Thu) - The Lambda Calculus (Ch10)
+* 11/07(Tue) - The Lambda Calculus (Ch10)
+* 11/09(Thu) - The Lambda Calculus (Ch10)
+* 11/14(Tue) - An Eager Functional Language (Ch11)
+* 11/16(Thu) - An Eager Functional Language (Ch11)
+* 11/21(Tue) - Continuation in a Functional Language (Ch12)
+* 11/23(Thu) - Continuation in a Functional Language (Ch12)
+* 11/28(Tue) - Final Exam.
+* 11/30(Thu) - Project Presentations.
+* 12/05(Tue) - Project Presentations.
+* 12/07(Thu) - Project Presentations.
+* 12/12(Tue), 12/14(Thu) - __** NO LECTURES. Week for Final Exams. **__
 
 ## 5. Lecture Notes
 
