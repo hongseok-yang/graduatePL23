@@ -79,7 +79,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/30(Thu) - Project Presentations.
 * 12/05(Tue) - Project Presentations.
 * 12/07(Thu) - Project Presentations.
-* 12/12(Tue), 12/14(Thu) - __** NO LECTURES. Week for Final Exams. **__
+* 12/12(Tue), 12/14(Thu) - __NO LECTURES. Week for Final Exams.__
 
 ## 5. Lecture Notes
 
