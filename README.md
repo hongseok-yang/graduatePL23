@@ -109,7 +109,7 @@ We will mainly follow Reynolds's book, but study the materials appearing in Chap
 
 In addition to the two books above, the following books will have further information about the topics covered in the course. In particular, Gunter's book goes deep into the domain theory, and Pierce's book into the type theory.
 
-* Auxiliary Textbook 1 : Practical Foundations for Programming Languages, Second Edition, Robert Harper, Cambridge University Press, 2016.
+* Auxiliary Textbook 1 : [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf), Second Edition, Robert Harper, Cambridge University Press, 2016.
 * Auxiliary Textbook 2 : Semantics of Programming Languages: Structures and Techniques, Carl A. Gunter, MIT Press, 1992.
 * Auxiliary Textbook 3 : Types and Programming Languages, Benjamin C. Pierce, MIT Press, 2002.
 * Auxiliary Textbook 4 : Formal Semantics of Programming Languages: an Introduction, Glynn Winskel, MIT Press, 1993.
