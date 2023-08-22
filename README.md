@@ -59,12 +59,12 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
 * 09/28(Thu) - Failure, Input-Output and Continuation (Ch5).
 * 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
-* 09/28(Thu) - __** NO LECTURE. Chuseok. **__
-* 10/03(Tue) - __** NO LECTURE. National Foundation Day. **__
+* 09/28(Thu) - __NO LECTURE. Chuseok.__
+* 10/03(Tue) - __NO LECTURE. National Foundation Day.__
 * 10/05(Thu) - Transition Semantics (Ch6).
 * 10/10(Tue) - An Introduction to Category Theory (Tennent Ch8).
 * 10/12(Thu) - An Introduction to Category Theory (Tennent Ch8).
-* 10/17(Tue), 10/19(Thu) - __** NO LECTURES. Week for Mid-term Exams. **__
+* 10/17(Tue), 10/19(Thu) - __NO LECTURES. Week for Mid-term Exams.__
 * 10/24(Tue) - Recursively-Defined Domains (Tennent Ch10).
 * 10/26(Thu) - Recursively-Defined Domains (Tennent Ch10).
 * 10/31(Tue) - Recursively-Defined Domains (Tennent Ch10).
