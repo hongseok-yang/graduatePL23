@@ -37,7 +37,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm 
-Tuesday, office: 3402 in E3-1.)
+on Monday, office: 3402 in E3-1.)
 * TA: Gyeongwon Jung
 * TA: Sangho Lim 
 
