@@ -42,12 +42,12 @@ on Monday, office: 3402 in E3-1.)
 
 ## 3. Final Exam
 
-The final exam for this course will happen in class on the 28th of November. Please note the unusual date of the exam, and make sure that you come to the class on that day and take the exam. The detailed information about the exam is given below.
+The final exam for this course will happen in class on the 30th of November. Please note the unusual date of the exam, and make sure that you come to the class on that day and take the exam. The detailed information about the exam is given below.
 
-* Date: November 28 (Tuesday).
+* Date: 30 November 2023 (Thursday).
 * Time: 10:30 - 12:00.
 * Place: 2445 in E3-1.
-* The exam will cover all the topics except ``Continuation in a Functional Language'' in Chapter 12 of Reynolds's book.
+* The exam will cover all the topics.
 
 ## 4. Homework
 
@@ -75,15 +75,15 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/24(Tue) - Recursively-Defined Domains (Tennent Ch10).
 * 10/26(Thu) - Recursively-Defined Domains (Tennent Ch10).
 * 10/31(Tue) - Recursively-Defined Domains (Tennent Ch10).
-* 11/02(Thu) - The Lambda Calculus (Ch10)
-* 11/07(Tue) - The Lambda Calculus (Ch10)
-* 11/09(Thu) - The Lambda Calculus (Ch10)
-* 11/14(Tue) - An Eager Functional Language (Ch11)
-* 11/16(Thu) - An Eager Functional Language (Ch11)
-* 11/21(Tue) - Continuation in a Functional Language (Ch12)
-* 11/23(Thu) - Continuation in a Functional Language (Ch12)
-* 11/28(Tue) - __FINAL EXAM.__
-* 11/30(Thu) - Project Presentations.
+* 11/02(Thu) - The Lambda Calculus (Ch10).
+* 11/07(Tue) - The Lambda Calculus (Ch10).
+* 11/09(Thu) - The Lambda Calculus (Ch10).
+* 11/14(Tue) - An Eager Functional Language (Ch11).
+* 11/16(Thu) - An Eager Functional Language (Ch11).
+* 11/21(Tue) - Continuation in a Functional Language (Ch12).
+* 11/23(Thu) - Continuation in a Functional Language (Ch12).
+* 11/28(Tue) - Continuation in a Functional Language (Ch12).
+* 11/30(Thu) - __FINAL EXAM.__
 * 12/05(Tue) - Project Presentations.
 * 12/07(Thu) - Project Presentations.
 * 12/12(Tue), 12/14(Thu) - __NO LECTURES. Week for Final Exams.__
