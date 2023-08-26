@@ -56,12 +56,12 @@ One important part of this course is to form a group of 2-4 students, study an a
   * Deadline - 11:59PM on 19 September 2023 (Tuesday).
   * Form a group with 2-4 students. 
   * Inform the lecture and the TAs about the group by email.
-2. Select a topic (5 marks out of 40 marks).
+2. Select a topic and write a proposal (5 marks out of 40 marks).
   * Deadline - 11:59PM on 12 October 2023 (Thursday).
   * Pick a paper or papers on the theories of programming languages that will be studied by your group. 
     The paper or papers should be chosen among papers published in POPL'19, POPL'20, POPL'21, 
     POPL'22, and POPL'23.
-  * Submit a 1-page report in KLMS that contains the title(s) of the selected paper(s), the reasoning for choosing it or them, and the plan to study the paper in depth.
+  * Submit a 1-page proposal in KLMS that contains the title(s) of the selected paper(s), the reasoning for choosing it or them, and the plan to study the paper in depth.
 3. Write a report (15 marks out of 40 marks).
   * Deadline - 11:59PM on 16 November 2023 (Thursday).
   * Submit a report with at most 4 pages excluding bibliography and figures in KLMS.
