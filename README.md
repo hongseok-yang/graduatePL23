@@ -66,10 +66,10 @@ One important part of this course is to form a group of 2-4 students, study an a
   * Deadline - 11:59PM on 16 November 2023 (Thursday).
   * Submit a report with at most 4 pages excluding bibliography and figures in KLMS.
   * The report should explain not just the topic studied by your group but also how the group studied the topic. The latter can be about how the group members studied the topic together, which questions they asked in order to understand the topic in depth, which other papers they studied, which existing implementations or mechanised proofs they looked at if there are any such, and how each member of the group contributed to the study, etc.
-  * We encourage the students to go beyond a simple summary of the topic, and to have their own mathematical or experimental analyses on the topic. For instance, if the existing results on a chosen topic mostly use the call-by-value setting, the students may try to find out which parts of the results survive in the call-by-name setting.
+  * We encourage the students to go beyond a simple summary of the topic, and to have their own thoughts in the form of mathematical or experimental analyses on the topic. For instance, if the existing results on a chosen topic mostly use the call-by-value setting, the students may try to find out which parts of the results survive in the call-by-name setting.
 4. Submit the slides of a presentation on the studied topic (15 marks out of 40 marks).
   * Deadline - 11:59PM on 23 November 2023 (Thursday).
-  * Prepare the slides of a 35-minute talk on the studied topic, and submit them in KLMS.
+  * Prepare the slides for a 35-minute talk on the studied topic, and submit them in KLMS.
   * The slides should be in the pdf format.
 5. Present your study if your group project is chosen (5 marks out of 40 marks).
   * Four projects will be based on the votes by the students, TAs, and the lecture. 
