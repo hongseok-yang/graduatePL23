@@ -2,7 +2,7 @@
 
 This is a webpage of the course "CS520 Theory of Programming Languages", which is offered at the KAIST CS department in the fall of 2023. The webpage will contain links to course-related materials and announcements.
 
-CS520 is an advanced graduate-level course on the theories of programming languages. Its goal is to expose students to rigorous mathematical foundations for programming languages and systems, and mathematical techniques for formally reasoning about  programs written in those languages. The course will largely follow Reynolds's textbook "Theories of Programming Languages", which provides good mathematical treatment of a wide range of programming constructs through axiomatic, denotational and operational semantics. 
+CS520 is an advanced graduate-level course on the theories of programming languages. Its goal is to expose students to rigorous mathematical foundations for programming languages and systems, and mathematical techniques for formally reasoning about  programs written in those languages. The course will largely follow Reynolds's textbook "Theories of Programming Languages", which provides good mathematical treatment of a wide range of programming constructs through axiomatic, denotational, and operational semantics. 
 
 The prerequisite of the course is CS320, the undergraduate-level programming-language course offered at KAIST, or a similar course. The course will be heavy in math, and we expect students to be comfortable with doing and reading rigorous mathematical proofs. 
 
@@ -52,12 +52,28 @@ The final exam for this course will happen in class on the 30th of November. Ple
 
 One important part of this course is to form a group of 2-4 students, study an advanced research topic on programming languages with fellow students in the group, and present what the group studied if the group is selected for presentation. Here are the detailed instructions on this group project.
 
-1. [Deadline - 11:59PM on 21 September (Thursday)] Form a group with 2-4 students and inform the lecture and the TAs about it.
-2. [Deadline - 11:59PM on 12 September (Thursday)]
-
-
-assigned topics for oneself, and write surveys about them, which also contain critiques or original thoughts of the student. This assignment accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignment.
-
+1. Form a group.
+  * Deadline - 11:59PM on 19 September 2023 (Tuesday).
+  * Form a group with 2-4 students. 
+  * Inform the lecture and the TAs about the group by email.
+2. Select a topic (5 marks out of 40 marks).
+  * Deadline - 11:59PM on 12 October 2023 (Thursday).
+  * Pick a paper or papers on the theories of programming languages that will be studied by your group. 
+    The paper or papers should be chosen among papers published in POPL'19, POPL'20, POPL'21, 
+    POPL'22, and POPL'23.
+  * Submit a 1-page report in KLMS that contains the title(s) of the selected paper(s), the reasoning for choosing it or them, and the plan to study the paper in depth.
+3. Write a report (15 marks out of 40 marks).
+  * Deadline - 11:59PM on 16 November 2023 (Thursday).
+  * Submit a report with at most 4 pages excluding bibliography and figures in KLMS.
+  * The report should explain not just the topic studied by your group but also how the group studied the topic. The latter can be about how the group members studied the topic together, which questions they asked in order to understand the topic in depth, which other papers they studied, which existing implementations or mechanised proofs they looked at if there are any such, and how each member of the group contributed to the study, etc.
+  * We encourage the students to go beyond a simple summary of the topic, and to have their own mathematical or experimental analyses on the topic. For instance, if the existing results on a chosen topic mostly use the call-by-value setting, the students may try to find out which parts of the results survive in the call-by-name setting.
+4. Submit the slides of a presentation on the studied topic (15 marks out of 40 marks).
+  * Deadline - 11:59PM on 23 November 2023 (Thursday).
+  * Prepare the slides of a 35-minute talk on the studied topic, and submit them in KLMS.
+  * The slides should be in the pdf format.
+5. Present your study if your slides are chosen (5 marks out of 40 marks).
+  * Four projects will be based on the votes by the students, TAs, and the lecture. 
+  * Two projects will be presented on 5 December 2023 (Tuesday), and the other two will be presented on 7 December 2023 (Thursday).
 
 
 ## 5. Homework
