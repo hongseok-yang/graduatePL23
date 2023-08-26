@@ -26,7 +26,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 #### Evaluation
 
-* Homework (20%). Final exam (40%). Critical survey and presentation (40%). 
+* Final exam (40%). Group project (40%). Homework (20%). 
 
 #### Teaching Staffs
 
@@ -48,11 +48,23 @@ The final exam for this course will happen in class on the 30th of November. Ple
 * Place: 2445 in E3-1.
 * The scope of the exam is all the topics covered in the classes.
 
-## 4. Homework
+## 4. Group Project
+
+One important part of this course is to form a group of 2-4 students, study an advanced research topic on programming languages with fellow students in the group, and present what the group studied if the group is selected for presentation. Here are the detailed instructions on this group project.
+
+1. [Deadline - 11:59PM on 21 September (Thursday)] Form a group with 2-4 students and inform the lecture and the TAs about it.
+2. [Deadline - 11:59PM on 12 September (Thursday)]
+
+
+assigned topics for oneself, and write surveys about them, which also contain critiques or original thoughts of the student. This assignment accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignment.
+
+
+
+## 5. Homework
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
-## 5. Tentative Plan
+## 6. Tentative Plan
 
 * 08/29(Tue) - Introduction.
 * 08/31(Thu) - Predicate Logic (Ch1).
@@ -87,7 +99,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 12/07(Thu) - Project Presentations.
 * 12/12(Tue), 12/14(Thu) - __NO LECTURES. Week for Final Exams.__
 
-## 6. Lecture Notes
+## 7. Lecture Notes
 
 The lectures will be based on the following hand-written notes, which summarise the contents of the two main textbooks. Reading these notes and solving exercisers in the notes is a recommended way to study the topics covered by the course.
 
@@ -102,7 +114,7 @@ The lectures will be based on the following hand-written notes, which summarise 
 * An Eager Functional Language (Ch11) ([note1](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture10/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture10/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture10/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture10/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture10/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture10/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture10/note7.jpeg)).
 * Continuation in a Functional Language (Ch12) ([note1](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note9.jpeg), [note10](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note10.jpeg), [note11](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note11.jpeg), [note12](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture11/note12.jpeg)).
 
-## 7. Study Materials
+## 8. Study Materials
 
 We will mainly follow Reynolds's book, but study the materials appearing in Chapters 8 and 10 of Tennent's book.
 
