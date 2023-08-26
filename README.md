@@ -71,7 +71,7 @@ One important part of this course is to form a group of 2-4 students, study an a
   * Deadline - 11:59PM on 23 November 2023 (Thursday).
   * Prepare the slides of a 35-minute talk on the studied topic, and submit them in KLMS.
   * The slides should be in the pdf format.
-5. Present your study if your slides are chosen (5 marks out of 40 marks).
+5. Present your study if your group project is chosen (5 marks out of 40 marks).
   * Four projects will be based on the votes by the students, TAs, and the lecture. 
   * Two projects will be presented on 5 December 2023 (Tuesday), and the other two will be presented on 7 December 2023 (Thursday).
 6. Warning on plagiarism.
