@@ -8,6 +8,15 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [27 August] Q&A and use of a LLM.
+
+We strongly recommend students to ask questions in KLMS, instead of in github, if they have any. This would help fellow students to access those questions and corresponding answers more easily. It would also help TAs and the lecture not to miss those questions.
+
+We do not permit students to ask homework questions directly to ChatGPT, Bard, or other LLMs. Doing so would be regarded as the violation of the honour code. However, students can use LLMs to get help for their study, for instance, using CoPilot to solve LaTeX typesetting issues and asking ChatGPT to get an overview of a concept or a technique covered in the course or encountered in your group project. If a student or a project group gets help from LLMs for an assignment, such as a project report, the student or the group should do the following two things:
+
+1. In a submission, the student or the project group should explain how and where LLMs are used.
+2. LLMs are well-known to give false information. Ensuring correctness is the responsibility of the student or the project group.
+
 #### [August 22] Policy for handling late submissions.
 
 We will adopt the following scheme for handling late submissions for all types of assignments, including homework assignments. The scheme assumes that the total marks are 100.
