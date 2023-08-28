@@ -96,7 +96,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 ## 6. Tentative Plan
 
-* 08/29(Tue) - Introduction ([slides](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture1/slides.pdf)).
+* 08/29(Tue) - Introduction ([slides](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture1/Lecture1.pdf)).
 * 08/31(Thu) - Predicate Logic (Ch1).
 * 09/05(Tue) - Predicate Logic (Ch1).
 * 09/07(Thu) - The Simple Imperative Language (Ch2).
