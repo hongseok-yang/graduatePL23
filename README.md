@@ -64,8 +64,9 @@ One important part of this course is to form a group of 2-4 students, study an a
 
 1. Form a group.
   * Deadline - 11:59PM on 19 September 2023 (Tuesday).
-  * Form a group with 2-4 students. 
-  * Inform the lecture and the TAs about the group by email.
+  * Form a group with 2-4 students.
+  * Use [KLMS board](https://klms.kaist.ac.kr/mod/courseboard/view.php?id=852411) to find team members.
+  * Fill out your team information on the [spreadsheet](https://docs.google.com/spreadsheets/d/19T4g5TB653phURxnPwSXI_WItWa2_S2cFddDfLq-FBA/edit#gid=0).
 2. Select a topic and write a proposal (5 marks out of 40 marks).
   * Deadline - 11:59PM on 12 October 2023 (Thursday).
   * Pick a paper or papers on the theories of programming languages that will be studied by your group. 
