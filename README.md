@@ -99,29 +99,27 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 08/29(Tue) - Introduction ([slides](https://github.com/hongseok-yang/graduatePL23/blob/master/Lectures/Lecture1/Lecture1.pdf)).
 * 08/31(Thu) - Predicate Logic (Ch1).
 * 09/05(Tue) - Predicate Logic (Ch1).
-* 09/07(Thu) - The Simple Imperative Language (Ch2).
-* 09/12(Tue) - The Simple Imperative Language (Ch2).
+* 09/07(Thu) - Predicate Logic (Ch1).
+* 09/12(Tue) - Predicate Logic (Ch1).
 * 09/14(Thu) - The Simple Imperative Language (Ch2).
-* 09/19(Tue) - Program Specification and Their Proofs (Ch3).
-* 09/21(Thu) - Program Specification and Their Proofs (Ch3).
-* 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
-* 09/28(Thu) - Failure, Input-Output and Continuation (Ch5).
-* 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 09/19(Tue) - The Simple Imperative Language (Ch2).
+* 09/21(Thu) - The Simple Imperative Language (Ch2).
+* 09/26(Tue) - Program Specification and Their Proofs (Ch3).
 * 09/28(Thu) - __NO LECTURE. Chuseok.__
 * 10/03(Tue) - __NO LECTURE. National Foundation Day.__
-* 10/05(Thu) - Transition Semantics (Ch6).
-* 10/10(Tue) - An Introduction to Category Theory (Tennent Ch8).
-* 10/12(Thu) - An Introduction to Category Theory (Tennent Ch8).
+* 10/05(Thu) - Program Specification and Their Proofs (Ch3).
+* 10/10(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 10/12(Thu) - Failure, Input-Output and Continuation (Ch5).
 * 10/17(Tue), 10/19(Thu) - __NO LECTURES. Week for Mid-term Exams.__
-* 10/24(Tue) - Recursively-Defined Domains (Tennent Ch10).
-* 10/26(Thu) - Recursively-Defined Domains (Tennent Ch10).
+* 10/24(Tue) - An Introduction to Category Theory (Tennent Ch8).
+* 10/26(Thu) - An Introduction to Category Theory (Tennent Ch8).
 * 10/31(Tue) - Recursively-Defined Domains (Tennent Ch10).
-* 11/02(Thu) - The Lambda Calculus (Ch10).
+* 11/02(Thu) - Recursively-Defined Domains (Tennent Ch10).
 * 11/07(Tue) - The Lambda Calculus (Ch10).
 * 11/09(Thu) - The Lambda Calculus (Ch10).
-* 11/14(Tue) - An Eager Functional Language (Ch11).
+* 11/14(Tue) - The Lambda Calculus (Ch10).
 * 11/16(Thu) - An Eager Functional Language (Ch11).
-* 11/21(Tue) - Continuation in a Functional Language (Ch12).
+* 11/21(Tue) - An Eager Functional Language (Ch11).
 * 11/23(Thu) - Continuation in a Functional Language (Ch12).
 * 11/28(Tue) - Continuation in a Functional Language (Ch12).
 * 11/30(Thu) - __FINAL EXAM.__
