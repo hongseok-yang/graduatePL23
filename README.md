@@ -105,8 +105,6 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 09/19(Tue) - Program Specification and Their Proofs (Ch3).
 * 09/21(Thu) - Program Specification and Their Proofs (Ch3).
 * 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
-* 09/28(Thu) - Failure, Input-Output and Continuation (Ch5).
-* 09/26(Tue) - Failure, Input-Output and Continuation (Ch5).
 * 09/28(Thu) - __NO LECTURE. Chuseok.__
 * 10/03(Tue) - __NO LECTURE. National Foundation Day.__
 * 10/05(Thu) - Transition Semantics (Ch6).
