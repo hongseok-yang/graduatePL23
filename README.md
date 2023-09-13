@@ -42,8 +42,7 @@ We also handle the case of plagiarism strictly. Plagiarism means that students c
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Monday, office: 3402 in E3-1.)
-* TA: Gyeongwon Jung
-* TA: Sangho Lim (email: lim.sang@kaist.ac.kr, office hour: 3:00pm - 4:00pm on Thursday, office: 3419 in E3-1.)
+* TAs: Gyeongwon Jung (email: jgyw0910@kaist.ac.kr) and Sangho Lim (email: lim.sang@kaist.ac.kr), office hour: 4:00pm - 5:00pm on Thursday, office: 3419 in E3-1.
 
 #### Time and Place
 
@@ -65,8 +64,9 @@ One important part of this course is to form a group of 2-4 students, study an a
 
 1. Form a group.
   * Deadline - 11:59PM on 19 September 2023 (Tuesday).
-  * Form a group with 2-4 students. 
-  * Inform the lecture and the TAs about the group by email.
+  * Form a group with 2-4 students.
+  * Use [KLMS board](https://klms.kaist.ac.kr/mod/courseboard/view.php?id=852411) to find team members.
+  * Fill out your team information on the [spreadsheet](https://docs.google.com/spreadsheets/d/19T4g5TB653phURxnPwSXI_WItWa2_S2cFddDfLq-FBA/edit#gid=0).
 2. Select a topic and write a proposal (5 marks out of 40 marks).
   * Deadline - 11:59PM on 12 October 2023 (Thursday).
   * Pick a paper or papers on the theories of programming languages that will be studied by your group. 
