@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [17 September] [Homework1](https://github.com/hongseok-yang/graduatePL23/blob/master/Homework/homework1-questions.pdf) is out.
+
+The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 4 October 2023 (Wednesday).
+
 #### [27 August] Q&A and use of a LLM.
 
 We strongly recommend students to ask questions in KLMS, instead of in github, if they have any. This would help fellow students to access those questions and corresponding answers more easily. It would also help TAs and the lecture not to miss those questions.
@@ -93,6 +97,8 @@ One important part of this course is to form a group of 2-4 students, study an a
 ## 5. Homework
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
+
+* [Homework1](https://github.com/hongseok-yang/graduatePL23/blob/master/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 4 October 2023 (Wednesday).
 
 ## 6. Tentative Plan
 
