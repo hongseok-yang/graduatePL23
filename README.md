@@ -8,15 +8,23 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
-#### [03 October] [Homework2](https://github.com/hongseok-yang/graduatePL23/blob/master/Homework/homework2-questions.pdf) is out.
+#### [05 November] [Homework3](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework3-questions.pdf) is out.
+
+The homework assignment 3 is out. Submit your solutions in KLMS by 6:00pm on 27  November 2023 (Monday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
+#### [03 October] [Homework2](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework2-questions.pdf) is out.
 
 The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 24 October 2023 (Tuesday).
 
-#### [27 August] Q&A and use of a LLM.
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
-#### [17 September] [Homework1](https://github.com/hongseok-yang/graduatePL23/blob/master/Homework/homework1-questions.pdf) is out.
+#### [17 September] [Homework1](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework1-questions.pdf) is out.
 
 The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 4 October 2023 (Wednesday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
 #### [27 August] Q&A and use of a LLM.
 
@@ -107,8 +115,9 @@ One important part of this course is to form a group of 2-4 students, study an a
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
-* [Homework2](https://github.com/hongseok-yang/graduatePL23/blob/master/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 24 October 2023 (Tuesday).
-* [Homework1](https://github.com/hongseok-yang/graduatePL23/blob/master/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 4 October 2023 (Wednesday).
+* [Homework2](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 27 November 2023 (Monday).
+* [Homework2](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 24 October 2023 (Tuesday).
+* [Homework1](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 4 October 2023 (Wednesday).
 
 ## 6. Tentative Plan
 
