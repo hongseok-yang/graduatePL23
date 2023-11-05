@@ -115,7 +115,7 @@ One important part of this course is to form a group of 2-4 students, study an a
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
-* [Homework2](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 27 November 2023 (Monday).
+* [Homework3](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 27 November 2023 (Monday).
 * [Homework2](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 24 October 2023 (Tuesday).
 * [Homework1](https://github.com/hongseok-yang/graduatePL23/blob/main/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 4 October 2023 (Wednesday).
 
