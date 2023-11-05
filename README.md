@@ -127,17 +127,17 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/10(Tue) - Failure, Input-Output and Continuation (Ch5).
 * 10/12(Thu) - Failure, Input-Output and Continuation (Ch5).
 * 10/17(Tue), 10/19(Thu) - __NO LECTURES. Week for Mid-term Exams.__
-* 10/24(Tue) - An Introduction to Category Theory (Tennent Ch8).
-* 10/26(Thu) - An Introduction to Category Theory (Tennent Ch8).
-* 10/31(Tue) - Recursively-Defined Domains (Tennent Ch10).
-* 11/02(Thu) - Recursively-Defined Domains (Tennent Ch10).
-* 11/07(Tue) - The Lambda Calculus (Ch10).
-* 11/09(Thu) - The Lambda Calculus (Ch10).
+* 10/24(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 10/26(Thu) - Failure, Input-Output and Continuation (Ch5).
+* 10/31(Tue) - Failure, Input-Output and Continuation (Ch5).
+* 11/02(Thu) - Failure, Input-Output and Continuation (Ch5).
+* 11/07(Tue) - Transition Semantics (Ch6)
+* 11/09(Thu) - Transition Semantics (Ch6)
 * 11/14(Tue) - The Lambda Calculus (Ch10).
-* 11/16(Thu) - An Eager Functional Language (Ch11).
-* 11/21(Tue) - An Eager Functional Language (Ch11).
-* 11/23(Thu) - Continuation in a Functional Language (Ch12).
-* 11/28(Tue) - Continuation in a Functional Language (Ch12).
+* 11/16(Thu) - The Lambda Calculus (Ch10).
+* 11/21(Tue) - The Lambda Calculus (Ch10).
+* 11/23(Thu) - An Eager Functional Language (Ch11).
+* 11/28(Tue) - An Eager Functional Language (Ch11).
 * 11/30(Thu) - __FINAL EXAM.__
 * 12/05(Tue) - Project Presentations.
 * 12/07(Thu) - Project Presentations.
